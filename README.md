@@ -1,2 +1,2 @@
-# origami
-Origami Studio Patches and Components
+# Origami Library
+A library of custom patches and components for [Origami Studio](http://origami.design)
